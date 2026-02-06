@@ -47,7 +47,7 @@ I was responsible for **designing the system architecture**, defining communicat
 ## Architecture Diagram
 
 <p align="center">
-  <img src="./workflow.png" width="900" alt="Workflow diagram">
+  <img src="./workflow-overview.png" width="900" alt="Workflow diagram">
 </p>
 
 ---
