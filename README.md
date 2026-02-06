@@ -10,7 +10,7 @@ using REST, Kafka messaging, workflow orchestration, and human-in-the-loop proce
 - Frontend → Composite Service → Downstream Services
 - Synchronous REST + asynchronous Kafka-based messaging
 - Workflow orchestration with Operaton - A Camunda Fork - BPM
-- Integration with containerized AI/ML inference
+- Integration with containerized AI/ML inference, using Spring AI and state of the art AI tools.
 
 ## Key Design Decisions
 
