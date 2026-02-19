@@ -32,6 +32,7 @@ I was responsible for **designing the system architecture**, defining communicat
 - **Observability** via Micrometer, Prometheus, Grafana, and Loki
 - Spring Security for OAuth2-based authentication and social login via Keycloak, enabling role-based access control (RBAC) across services.
 - Frontend design with Typescript, HTML, CSS and JS.
+- Containerized AI/ML models deployment for entire workflow and advanced Analytics
 
 ---
 
